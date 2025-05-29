@@ -1,4 +1,6 @@
+Thanks, Rabin! I see you pasted the markdown version of your `README.md`. Here's the corrected and cleaned-up version based on what you provided — with proper markdown formatting and no syntax issues:
 
+---
 
 ````markdown
 # React Basics
@@ -46,8 +48,8 @@ To run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/react-basics.git
-   cd react-basics
+   git clone https://github.com/Rabin-Mishra/React_Basics.git
+   cd React_Basics
 ````
 
 2. **Install dependencies**
@@ -67,7 +69,7 @@ To run the project locally:
 ## 📁 Folder Structure
 
 ```
-react-basics/
+React_Basics/
 │
 ├── src/
 │   ├── components/
@@ -100,9 +102,8 @@ react-basics/
 ---
 
 
+
 ```
 
 ---
-
-Let me know if you want this in a downloadable format or automatically tailored for your actual file names and GitHub username.
 ```
