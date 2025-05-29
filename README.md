@@ -95,13 +95,10 @@ react-basics/
 ## 👤 Author
 
 **Rabin Mishra**
-[GitHub Profile](https://github.com/your-username)
+[GitHub Profile](https://github.com/Rabin-Mishra)
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ```
 
